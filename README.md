@@ -1,1 +1,1 @@
-## Git totorial by Luis hernandez
+## Git tutorial by Luis hernandez
